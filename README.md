@@ -2,7 +2,7 @@
 
 Created by Tsung-Yu Lin, Aruni RoyChowdhury and Subhransu Maji at UMass Amherst
 ### Introduction
-
+Modified by Yuqi Huo
 This repository contains the code for reproducing the results in B-CNN [ICCV 2015] and Improved B-CNN [BMVC 2017] papers:
 
 	@inproceedings{lin2015bilinear,
